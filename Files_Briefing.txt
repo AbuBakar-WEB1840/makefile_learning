@@ -1,0 +1,17 @@
+simple_makefile:
+    that is just a compiling of simple code using makefile
+
+understanding_gcc_flags_and_compilation_flags:
+    - in this file different stages of the compilation with flags are used 
+    e.g. main.c -> main.i -> main.s -> main.o -> main.exe
+    - understand about use of PHONY
+    - and use of the variables
+
+multi_files_compiling_and_linking
+    - compiled differnt files and link them together to generate the file executables
+    file.
+    - understand about the use of variables and how to link the files together
+
+multi_files_embedded_style
+    - in this file, made theree folders and use one folder in other (imu in max) and 
+    then used both max and imu in main and then compiled it in embedded multi_files_embedded_style
